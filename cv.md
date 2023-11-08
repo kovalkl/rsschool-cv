@@ -29,3 +29,9 @@ function isDivideBy(number, a, b) {
   } 
 }
 ```
+## Education
+* *2016 - 2021* - Novosibirsk State Technical University 
+* *2023 - now* - Rolling Scopes School
+
+## Work Experience
+This CV 
