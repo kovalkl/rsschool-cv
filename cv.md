@@ -12,3 +12,9 @@
 ## Profile
  Now I work as an mechanical engineer but I want to become a front-end developer. At the moment I'm learning, but I believe that I can do it.
 
+## Skills
+* Web-development: HTML, CSS, JavaScript
+* Version control: Git
+* Languages: 
+    - Intermediate English 
+    - Native Russian
