@@ -18,3 +18,14 @@
 * Languages: 
     - Intermediate English 
     - Native Russian
+
+## Code Example
+```
+function isDivideBy(number, a, b) {
+  if (number % a === 0 && number % b === 0) {
+    return true;
+  } else {
+    return false;
+  } 
+}
+```
